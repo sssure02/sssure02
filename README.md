@@ -8,7 +8,7 @@ I’m currently learning Machine Learning and SQL.
 <a href="http://www.linkedin.com/in/saisravanisure">
     <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
 </a> &emsp;
-<a href="saisravanisure@gmail.com">
+<a href="mailto:saisravanisure@gmail.com">
     <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
 </a>
 
