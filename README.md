@@ -1,8 +1,8 @@
 # ✨ About Me:
 
-Hello! I'm Sai Sravani! I'm a junior undergrad student at Wayne State University pursuing a Bachelors degree in Statistics with minors in Computer Science and Economics.
+Hello! I'm Sai Sravani! I'm a junior undergrad student at Wayne State University pursuing a Bachelors degree in Statistics and Computer Science with a minor in Economics.
 
-I’m currently learning Machine Learning and SQL.
+I’m currently learning Machine Learning.
 
 ## 🌐 Socials:
 <a href="http://www.linkedin.com/in/saisravanisure">
