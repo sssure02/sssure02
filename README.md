@@ -17,9 +17,9 @@ Hello! I'm Sai Sravani! I'm a senior undergrad student at Wayne State University
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 📜 Certificates: 
-[Exploring and Analyzing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/812292743ea56f4fd8b8c5e852237c3d2ee2c578)
-[Power BI Essential Training](https://www.linkedin.com/learning/certificates/56501d34d42d08579a609f2c0db5f152b9c098fd567fcbd5305c5a13f2d2515f)
-[Statistics With Python](https://www.coursera.org/account/accomplishments/specialization/F6LVXA4APZ9J?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
+* [Exploring and Analyzing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/812292743ea56f4fd8b8c5e852237c3d2ee2c578)
+* [Power BI Essential Training](https://www.linkedin.com/learning/certificates/56501d34d42d08579a609f2c0db5f152b9c098fd567fcbd5305c5a13f2d2515f)
+* [Statistics With Python](https://www.coursera.org/account/accomplishments/specialization/F6LVXA4APZ9J?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
 
 
 <!--
