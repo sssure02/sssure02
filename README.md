@@ -10,10 +10,6 @@ Hello! I'm Sai Sravani! I'm a senior undergrad student at Wayne State University
     <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
 </a>
 
-## 🌱 Learning
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![MicrosoftSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
 ## 💻 Technical Skills: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -26,7 +22,6 @@ Hello! I'm Sai Sravani! I'm a senior undergrad student at Wayne State University
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-
 
 ## 📜 Certificates: 
 * [Exploring and Analyzing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/812292743ea56f4fd8b8c5e852237c3d2ee2c578)
