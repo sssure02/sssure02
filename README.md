@@ -30,14 +30,6 @@ Hello! I'm Sai Sravani! I'm a senior undergrad student at Wayne State University
 ![MicrosoftOffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-## 📜 Certificates: 
-* [Exploring and Analyzing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/812292743ea56f4fd8b8c5e852237c3d2ee2c578)
-* [Statistics With Python](https://www.coursera.org/account/accomplishments/specialization/F6LVXA4APZ9J?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n)
-* [Power BI Essential Training](https://www.linkedin.com/learning/certificates/56501d34d42d08579a609f2c0db5f152b9c098fd567fcbd5305c5a13f2d2515f)
-* [Power BI Data Modeling with DAX](https://www.linkedin.com/learning/certificates/28d5c811307a9ee867edfff1946720677db5d4371c2bd583cc510ce82acca8c6)
-* [Postman Essential Training](https://www.linkedin.com/learning/certificates/0492a0e98b5140e7556113c2b35636002db4d0bc6f0ecfb4546a3ca5b5d68321)
-
-
 <!--
 **sssure02/sssure02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://github.com/alexandresanlim/Badges4-README.md-Profile
