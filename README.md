@@ -1,6 +1,6 @@
 # ✨ About Me:
 
-Hello! I'm Sai Sravani! I'm a senior undergrad student at Wayne State University pursuing a Bachelors of Science degree in Statistics with minors in Computer Science and Economics.
+Hello! I'm Sai Sravani! I'm a grad student at University of Michigan pursuing MS in Data Science. Feel free to check out my portfolio website [here](https://saisure.wix.com/portfolio). 
 
 ## 🌐 Socials:
 <a href="http://www.linkedin.com/in/saisravanisure">
