@@ -1,6 +1,6 @@
 # ✨ About Me:
 
-Hello! I'm Sai Sravani! I'm a grad student at University of Michigan pursuing MS in Data Science. Feel free to check out my portfolio website [here](https://saisure.wix.com/portfolio). 
+Hello! I'm Sai Sravani! I'm currently a student at University of Michigan pursuing MS in Data Science. 
 
 ## 🌐 Socials:
 <a href="http://www.linkedin.com/in/saisravanisure">
