@@ -2,14 +2,6 @@
 
 Hello! I'm Sai Sravani! I'm currently a student at University of Michigan pursuing MS in Data Science. 
 
-## 🌐 Socials:
-<a href="http://www.linkedin.com/in/saisravanisure">
-    <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
-</a> &emsp;
-<a href="mailto:saisravanisure@gmail.com">
-    <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
-</a>
-
 ## 💻 Programming Languages: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
